@@ -3,7 +3,7 @@
 ## Création d'un projet skeleton (projet minimum)
 
 ```bash
-composer create-project symfony/skeleton oflix
+composer create-project symfony/skeleton alloflix
 ```
 
 On déplace les fichier du sous-dossier du projet, puis on supprime le sous-dossier
